@@ -27,4 +27,4 @@ Hey there! 👋 I'm Nitya Jhaveri, a CS freshman at Purdue University. I'm passi
 
 Feel free to explore my repositories, and don't hesitate to reach out. Whether you're looking for coding collaborations, advice, or just a friendly chat, I'm always up for it. Happy coding! 🚀✨
 
-[LinkedIn](https://www.linkedin.com/in/nitya-jhaveri-1834bb1b5/) | [Twitter](your_twitter_profile) | [Portfolio Website](your_portfolio_website) | [Email](your_email@example.com)
+[LinkedIn](https://www.linkedin.com/in/nitya-jhaveri-1834bb1b5/)  | [Portfolio Website](your_portfolio_website) | [Email](nityajhaveri22@gmail.com)
