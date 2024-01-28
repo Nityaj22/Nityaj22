@@ -3,7 +3,7 @@ Hey there! 👋 I'm Nitya Jhaveri, a CS freshman at Purdue University. I'm passi
 
 Teaching Java at Shyam Sir Classes 🚀
 Shyam Sir Classes
-Ahmedabad, India | June 2023 – July 2023
+Ahmedabad, India | June 2023 - July 2023
 
 🎓 Instructed a lively group of 30 students in the art of Java programming.
 🚀 Achieved a 100% pass rate in Java assessments through personalized one-on-one guidance.
