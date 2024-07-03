@@ -1,6 +1,6 @@
 # Welcome to Nitya Jhaveri's GitHub!
 
-Hey there! 👋 I'm Nitya Jhaveri, a CS freshman at Purdue University. I'm passionate about coding and have a knack for languages like Python, Java, C++, MySQL, and even some CSS magic. Below, I've highlighted some of the cool things I've been up to:
+Hey there! 👋 I'm Nitya Jhaveri, a CS sophomore at Purdue University. I'm passionate about coding and have a knack for languages like Python, Java, C++, R, MySQL, and even some CSS magic. Below, I've highlighted some of the cool things I've been up to:
 
 ## Teaching Java at Shyam Sir Classes 🚀
 
@@ -14,7 +14,7 @@ Hey there! 👋 I'm Nitya Jhaveri, a CS freshman at Purdue University. I'm passi
 
 ## Leadership and Tech Ninja Skills 💻
 
-- 🚀 **Technical Stack:** Python, Java, C++, MySQL, and Microsoft Office Suite.
+- 🚀 **Technical Stack:** Python, Java, C++, R, MySQL, and Microsoft Office Suite.
 - 🌐 Led a formidable team in TiE's TYE (TiE Young Entrepreneurs) program, creating a company as our final project.
 - 🤝 Contributed to community service at the Blind People's Association, aiding visually impaired children for 2 weeks.
 - 🌐 Global Awareness: Represented at Asia Youth International Model United Nations (MUN).
